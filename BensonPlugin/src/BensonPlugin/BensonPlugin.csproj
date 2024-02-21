@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Library</OutputType>
-    <RootNamespace>Loupedeck.Benson</RootNamespace>
+    <RootNamespace>Loupedeck.BensonPlugin</RootNamespace>
   </PropertyGroup>
   <PropertyGroup>
     <BaseOutputPath>$(SolutionDir)..\bin\</BaseOutputPath>
